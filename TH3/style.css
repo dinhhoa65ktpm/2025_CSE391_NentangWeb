@@ -1,0 +1,10 @@
+body{
+    background-color: #f8f9fa;
+}
+.task-container{
+    max-width: 600px;
+    margin :50px auto;
+}
+.task-list li{
+    margin-bottom: 10px;
+}
